@@ -1,0 +1,28 @@
+body {background-color:lightgray}
+h1   {color:black;
+	font-size:70px;
+	line-height: 60px}
+h2 {line-height:50px;}
+h3 {line-height:50px}
+p    {color:black;
+	font-size: medium;}
+.header {background-color:#ff835d;
+padding-bottom: 50px;}
+.video {background-color:#ffd45d;
+	padding: 30px 0 50px 0}
+.customers {background-color:#ff5d88;
+	padding: 30px 0 50px 0;}
+.footer {color:darkgray;
+		font-size: small;}
+.btn-info {margin: 20px 0 10px 0;}
+
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+img {
+	padding-bottom:5px;
+}
